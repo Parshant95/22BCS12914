@@ -6,7 +6,7 @@ const parent= React.createElement("div",{id:"parent"},
         [React.createElement("h1",{},"H1 tag is here"),
         React.createElement("h2",{},"H2 tag is here"),
     ])
-
+ 
  );
 
 
